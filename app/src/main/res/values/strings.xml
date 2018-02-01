@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">QuizTask</string>
+    <string name="intro">A Norman Hillfort was sited at the top end of my local High Street, just before AD 1100.  This app is a gentle introduction to an understated and some may say even surprisingly well hidden piece of history.  \n\nSee if you can gain full marks on my quiz.  \n\nJust for fun.</string>
+    <string name="greeting">Bailey Hill Conquered!</string>
+    <string name="enter_name">Welcome explorer! Enter your name!</string>
+    <string name="question">Question no.</string>
+    <string name="num1">-1-</string>
+    <string name="num1stem">Bailey Hill, Mold, is named after the Norman Hill Fort that was once atop it.  The style of hill fort of the day was to place a structure on top of a mound or high spot, overlooking a flattened area.  These were called"</string>
+    <string name="pickoneonly">Click one of the above, then swipe up</string>
+    <string name="pickallthatapply">Pick the correct answers from the list below (more than one!)</string>
+
+    <string name="answer1a">Bailey Hill-Fort</string>
+    <string name="answer1b">Motte and Bailey Castle</string>
+    <string name="answer1c">Norman Bailey Fort</string>
+    <string name="closingresponse">Hey, well done for getting this far!  Have you managed a perfect score yet?  The Friends of Bailey Hill meet regularly and are in the process of seeking charitable status to help improve access to this ancient monument whilst enhancing it\'s value to the community of Mold and environs.
+        As well as the site of the hill fort, there is the Coronation Tree planted in 1902 (for Edward VII) and the Gorsedd stone circle laid in 1922 for the 1923 Eisteddfod (spoken word and music festival).
+        \n\n\nBailey Hill is to be found at the top of Mold High Street in Flintshire, North East Wales.  \n\n\nYou can\'t miss it.  \n\n\nDon\'t miss it!</string>
+    <string name="resultspace">Your results will appear here!</string>
+
+    <string name="num2">-2-</string>
+    <string name="num2stem">The Norman invasion saw Harold Godwinson, called King Harold II perish at Hastings in 1066.  But in which month did the battle occur? Was it a spring, summer or autumn campaign?"</string>
+    <string name="answer2a">April 1066</string>
+    <string name="answer2b">August 1066</string>
+    <string name="answer2c">November 1066</string>
+
+
+    <string name="num3">-3-</string>
+    <string name="num3stem">History, they say, is written by the victors.  But that\'s not all, the Normans brought their first names with them.  In the following list chose only the names that are Norman, and Not Anglo-Saxon"</string>
+    <string name="answer3a">Matilda</string>
+    <string name="answer3b">Eadric</string>
+    <string name="answer3c">Leofric</string>
+    <string name="answer3d">William</string>
+    <string name="answer3e">Henry</string>
+    <string name="answer3f">Alice</string>
+
+    <string name="num4">-4-</string>
+    <string name="num4stem">Built on a mound (Motte) probably dropped by a glacier in the ice age, the fort on top would have been built of what material?</string>
+    <string name="answer4a">Wattle and Daub</string>
+    <string name="answer4b">Wood</string>
+    <string name="answer4c">Locally sourced stone</string>
+
+    <string name="num5">-5-</string>
+    <string name="num5stem">For 300 years or so after the invasion, the aristocracy in Britain would have spoken which language?</string>
+    <string name="answer5a">Anglo-Saxon</string>
+    <string name="answer5b">Latin</string>
+    <string name="answer5c">French</string>
+
+    <string name="num6">-6-</string>
+    <string name="num6stem">Why were the Normans so referred?</string>
+    <string name="answer6a">Because they all had the same first name</string>
+    <string name="answer6b">Because they came from Normandy</string>
+    <string name="answer6c">Because they came from Viking stock in 900BC (Norse-Men or North Men)</string>
+
+</resources>
